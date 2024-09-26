@@ -106,7 +106,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jumankaushik/jumankaushik/output/snake.svg" alt="Snake animation" />
+<h2 align="center">Connect with me 🤠</h2>
 
 ###
 
