@@ -111,7 +111,7 @@
 ###
 
 <div align="center">
-  <a href="juman.code@gmail.com" target="_blank">
+  <a href="mailto:juman.code@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="26" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/juman-kaushik-14b7aa202/" target="_blank">
