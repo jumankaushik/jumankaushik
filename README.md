@@ -106,6 +106,20 @@
 
 ###
 
+<h2 align="center">🔥   My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jumankaushik&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/jumankaushik/jumankaushik/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center">Connect with me 🤠</h2>
 
 ###
@@ -121,9 +135,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="26" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jumankaushik/jumankaushik/output/snake.svg" alt="Snake animation" />
 
 ###
