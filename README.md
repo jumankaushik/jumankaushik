@@ -124,6 +124,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/jumankaushik/jumankaushik/output/snake.svg" alt="Snake animation" />
 
 ###
